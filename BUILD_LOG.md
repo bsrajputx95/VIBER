@@ -6,3 +6,5 @@
 - Staged: package.json
 ## [2026-09-15 15:02:23] chore: add ESLint rules and code formatting configuration
 - Staged: package-lock.json
+## [2026-09-15 17:55:15] build: configure Vercel build settings and output directives
+- Staged: tsconfig.json
