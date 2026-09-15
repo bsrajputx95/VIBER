@@ -8,3 +8,5 @@
 - Staged: package-lock.json
 ## [2026-09-15 17:55:15] build: configure Vercel build settings and output directives
 - Staged: tsconfig.json
+## [2026-09-15 19:16:27] feat(db): define Prisma schema for users, sessions, and conversation records
+- Staged: next.config.ts
