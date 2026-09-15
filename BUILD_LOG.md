@@ -4,3 +4,5 @@
 - Staged: .env.example
 ## [2026-09-14 20:23:09] chore: setup TypeScript configuration and path aliases
 - Staged: package.json
+## [2026-09-15 15:02:23] chore: add ESLint rules and code formatting configuration
+- Staged: package-lock.json
