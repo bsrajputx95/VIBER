@@ -10,3 +10,5 @@
 - Staged: tsconfig.json
 ## [2026-09-15 19:16:27] feat(db): define Prisma schema for users, sessions, and conversation records
 - Staged: next.config.ts
+## [2026-09-17 13:47:41] feat(db): implement Prisma database client singleton and connection pooling
+- Staged: postcss.config.mjs
