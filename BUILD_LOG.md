@@ -12,3 +12,5 @@
 - Staged: next.config.ts
 ## [2026-09-17 13:47:41] feat(db): implement Prisma database client singleton and connection pooling
 - Staged: postcss.config.mjs
+## [2026-09-17 15:50:40] feat(auth): implement NextAuth v5 authentication handlers and session provider
+- Staged: eslint.config.mjs
