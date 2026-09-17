@@ -14,3 +14,5 @@
 - Staged: postcss.config.mjs
 ## [2026-09-17 15:50:40] feat(auth): implement NextAuth v5 authentication handlers and session provider
 - Staged: eslint.config.mjs
+## [2026-09-17 17:59:20] feat(auth): add user registration endpoint and password hashing helpers
+- Staged: components.json
