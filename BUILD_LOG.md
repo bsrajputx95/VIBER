@@ -20,3 +20,5 @@
 - Staged: vercel.json
 ## [2026-09-18 14:30:30] feat(auth): add AuthForm modal and authentication route handlers
 - Staged: LICENSE
+## [2026-09-18 16:49:16] feat(middleware): configure route protection and token validation middleware
+- Staged: prisma/schema.prisma
