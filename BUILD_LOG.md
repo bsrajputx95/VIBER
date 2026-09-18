@@ -16,3 +16,5 @@
 - Staged: eslint.config.mjs
 ## [2026-09-17 17:59:20] feat(auth): add user registration endpoint and password hashing helpers
 - Staged: components.json
+## [2026-09-18 12:54:40] feat(auth): implement guest authentication fallback for local development
+- Staged: vercel.json
