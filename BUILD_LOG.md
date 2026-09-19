@@ -24,3 +24,5 @@
 - Staged: prisma/schema.prisma
 ## [2026-09-19 14:25:08] feat(providers): define unified LLM provider adapter interfaces and contract types
 - Staged: src/lib/db.ts
+## [2026-09-19 16:08:07] feat(providers): implement OpenRouter and Together AI provider streaming clients
+- Staged: src/lib/auth.ts
