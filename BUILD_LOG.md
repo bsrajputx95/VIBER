@@ -22,3 +22,5 @@
 - Staged: LICENSE
 ## [2026-09-18 16:49:16] feat(middleware): configure route protection and token validation middleware
 - Staged: prisma/schema.prisma
+## [2026-09-19 14:25:08] feat(providers): define unified LLM provider adapter interfaces and contract types
+- Staged: src/lib/db.ts
