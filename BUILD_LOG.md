@@ -28,3 +28,5 @@
 - Staged: src/lib/auth.ts
 ## [2026-09-20 13:35:58] feat(providers): add OpenAI and Anthropic Claude provider integrations
 - Staged: src/lib/env.ts
+## [2026-09-20 15:21:07] feat(providers): implement Google Gemini and Groq fast-inference adapters
+- Staged: src/lib/utils.ts
