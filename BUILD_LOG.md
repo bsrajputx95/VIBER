@@ -26,3 +26,5 @@
 - Staged: src/lib/db.ts
 ## [2026-09-19 16:08:07] feat(providers): implement OpenRouter and Together AI provider streaming clients
 - Staged: src/lib/auth.ts
+## [2026-09-20 13:35:58] feat(providers): add OpenAI and Anthropic Claude provider integrations
+- Staged: src/lib/env.ts
