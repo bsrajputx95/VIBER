@@ -30,3 +30,5 @@
 - Staged: src/lib/env.ts
 ## [2026-09-20 15:21:07] feat(providers): implement Google Gemini and Groq fast-inference adapters
 - Staged: src/lib/utils.ts
+## [2026-09-21 14:42:35] feat(providers): add Mistral, Cohere, and xAI provider client implementations
+- Staged: src/middleware.ts
