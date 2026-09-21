@@ -32,3 +32,5 @@
 - Staged: src/lib/utils.ts
 ## [2026-09-21 14:42:35] feat(providers): add Mistral, Cohere, and xAI provider client implementations
 - Staged: src/middleware.ts
+## [2026-09-21 16:22:01] feat(stream): implement Server-Sent Events (SSE) streaming encoder and parser
+- Staged: src/app/api/auth/register/route.ts
