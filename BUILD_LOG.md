@@ -34,3 +34,5 @@
 - Staged: src/middleware.ts
 ## [2026-09-21 16:22:01] feat(stream): implement Server-Sent Events (SSE) streaming encoder and parser
 - Staged: src/app/api/auth/register/route.ts
+## [2026-09-22 15:04:56] feat(pipeline): define specialized system prompts and worker role definitions
+- Staged: src/app/api/auth/[...nextauth]/route.ts
