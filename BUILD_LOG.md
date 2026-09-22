@@ -36,3 +36,5 @@
 - Staged: src/app/api/auth/register/route.ts
 ## [2026-09-22 15:04:56] feat(pipeline): define specialized system prompts and worker role definitions
 - Staged: src/app/api/auth/[...nextauth]/route.ts
+## [2026-09-22 17:06:44] feat(store): implement Zustand store for model selection and provider registry
+- Staged: src/lib/store/auth.ts
