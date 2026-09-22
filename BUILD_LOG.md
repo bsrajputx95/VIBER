@@ -38,3 +38,5 @@
 - Staged: src/app/api/auth/[...nextauth]/route.ts
 ## [2026-09-22 17:06:44] feat(store): implement Zustand store for model selection and provider registry
 - Staged: src/lib/store/auth.ts
+## [2026-09-22 19:27:27] feat(api): add dynamic provider model catalog query route
+- Staged: src/components/AuthForm.tsx
