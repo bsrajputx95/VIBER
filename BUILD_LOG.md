@@ -42,3 +42,5 @@
 - Staged: src/components/AuthForm.tsx
 ## [2026-09-23 10:33:29] feat(api): implement conversation management and persistence endpoints
 - Staged: src/app/auth/page.tsx
+## [2026-09-23 12:34:54] feat(api): implement conversation share link generation and export route
+- Staged: src/lib/providers/base.ts
