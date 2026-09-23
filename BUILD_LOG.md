@@ -40,3 +40,5 @@
 - Staged: src/lib/store/auth.ts
 ## [2026-09-22 19:27:27] feat(api): add dynamic provider model catalog query route
 - Staged: src/components/AuthForm.tsx
+## [2026-09-23 10:33:29] feat(api): implement conversation management and persistence endpoints
+- Staged: src/app/auth/page.tsx
