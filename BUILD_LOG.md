@@ -46,3 +46,5 @@
 - Staged: src/lib/providers/base.ts
 ## [2026-09-25 14:54:08] feat(api): implement single-prompt instant chat streaming route
 - Staged: src/lib/providers/index.ts
+## [2026-09-25 16:53:54] feat(api): implement parallel worker research streaming endpoint
+- Staged: src/lib/providers/openai.ts
