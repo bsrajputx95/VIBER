@@ -44,3 +44,5 @@
 - Staged: src/app/auth/page.tsx
 ## [2026-09-23 12:34:54] feat(api): implement conversation share link generation and export route
 - Staged: src/lib/providers/base.ts
+## [2026-09-25 14:54:08] feat(api): implement single-prompt instant chat streaming route
+- Staged: src/lib/providers/index.ts
