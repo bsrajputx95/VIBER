@@ -50,3 +50,5 @@
 - Staged: src/lib/providers/openai.ts
 ## [2026-09-26 14:12:39] feat(api): implement deep reasoning multi-worker streaming route
 - Staged: src/lib/providers/anthropic.ts
+## [2026-09-26 16:45:29] feat(api): add code generation and validation streaming route
+- Staged: src/lib/providers/gemini.ts
