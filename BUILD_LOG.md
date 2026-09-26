@@ -48,3 +48,5 @@
 - Staged: src/lib/providers/index.ts
 ## [2026-09-25 16:53:54] feat(api): implement parallel worker research streaming endpoint
 - Staged: src/lib/providers/openai.ts
+## [2026-09-26 14:12:39] feat(api): implement deep reasoning multi-worker streaming route
+- Staged: src/lib/providers/anthropic.ts
