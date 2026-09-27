@@ -58,3 +58,5 @@
 - Staged: src/lib/providers/openrouter.ts
 ## [2026-09-27 16:52:49] feat(ui): configure dark theme palette, glassmorphism tokens, and keyframe animations
 - Staged: src/lib/providers/together.ts
+## [2026-09-27 18:04:35] feat(ui): add brand logo, star logo, and favicon visual identity assets
+- Staged: src/lib/providers/mistral.ts
