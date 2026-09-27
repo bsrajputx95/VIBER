@@ -56,3 +56,5 @@
 - Staged: src/lib/providers/groq.ts
 ## [2026-09-27 14:08:39] feat(store): implement stage execution and streaming state management
 - Staged: src/lib/providers/openrouter.ts
+## [2026-09-27 16:52:49] feat(ui): configure dark theme palette, glassmorphism tokens, and keyframe animations
+- Staged: src/lib/providers/together.ts
