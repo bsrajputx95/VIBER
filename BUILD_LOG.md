@@ -62,3 +62,5 @@
 - Staged: src/lib/providers/mistral.ts
 ## [2026-09-28 12:54:35] feat(ui): add button, input, badge, and card Radix UI primitives
 - Staged: src/lib/providers/cohere.ts
+## [2026-09-28 14:25:04] feat(ui): implement dropdown-menu, select, tabs, and sheet components
+- Staged: src/lib/providers/xai.ts
