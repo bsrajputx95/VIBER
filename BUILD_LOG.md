@@ -60,3 +60,5 @@
 - Staged: src/lib/providers/together.ts
 ## [2026-09-27 18:04:35] feat(ui): add brand logo, star logo, and favicon visual identity assets
 - Staged: src/lib/providers/mistral.ts
+## [2026-09-28 12:54:35] feat(ui): add button, input, badge, and card Radix UI primitives
+- Staged: src/lib/providers/cohere.ts
