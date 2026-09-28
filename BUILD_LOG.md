@@ -64,3 +64,5 @@
 - Staged: src/lib/providers/cohere.ts
 ## [2026-09-28 14:25:04] feat(ui): implement dropdown-menu, select, tabs, and sheet components
 - Staged: src/lib/providers/xai.ts
+## [2026-09-28 16:23:52] feat(ui): add progress gauge, scroll-area, skeleton, and toggle primitives
+- Staged: src/lib/sse.ts
