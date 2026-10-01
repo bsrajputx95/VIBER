@@ -66,3 +66,5 @@
 - Staged: src/lib/providers/xai.ts
 ## [2026-09-28 16:23:52] feat(ui): add progress gauge, scroll-area, skeleton, and toggle primitives
 - Staged: src/lib/sse.ts
+## [2026-10-01 11:05:35] feat(ui): add ThemeToggle component and responsive navigation primitives
+- Staged: src/lib/worker-roles.ts
