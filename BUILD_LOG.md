@@ -68,3 +68,5 @@
 - Staged: src/lib/sse.ts
 ## [2026-10-01 11:05:35] feat(ui): add ThemeToggle component and responsive navigation primitives
 - Staged: src/lib/worker-roles.ts
+## [2026-10-01 13:02:53] feat(visuals): implement Three.js WebGL canvas background with responsive particle aura
+- Staged: src/lib/prompts.ts
