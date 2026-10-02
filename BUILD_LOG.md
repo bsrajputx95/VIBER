@@ -72,3 +72,5 @@
 - Staged: src/lib/prompts.ts
 ## [2026-10-01 15:11:37] feat(visuals): build ViberCoreOrb 3D neural core with dynamic telemetry orbital rings
 - Staged: src/lib/store/models.ts
+## [2026-10-02 14:33:52] feat(visuals): bind 3D core reactivity to streaming execution pipeline state
+- Staged: src/app/api/models/route.ts
