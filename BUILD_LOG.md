@@ -74,3 +74,5 @@
 - Staged: src/lib/store/models.ts
 ## [2026-10-02 14:33:52] feat(visuals): bind 3D core reactivity to streaming execution pipeline state
 - Staged: src/app/api/models/route.ts
+## [2026-10-02 16:23:22] feat(visuals): add capsule progress gauges and collaborator avatar cluster
+- Staged: src/app/api/conversations/route.ts
