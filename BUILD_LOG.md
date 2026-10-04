@@ -76,3 +76,5 @@
 - Staged: src/app/api/models/route.ts
 ## [2026-10-02 16:23:22] feat(visuals): add capsule progress gauges and collaborator avatar cluster
 - Staged: src/app/api/conversations/route.ts
+## [2026-10-04 14:17:59] feat(visuals): implement PipelineProgress visual timeline and stage markers
+- Staged: src/app/api/conversations/[id]/route.ts
