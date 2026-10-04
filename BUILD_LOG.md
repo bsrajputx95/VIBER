@@ -80,3 +80,5 @@
 - Staged: src/app/api/conversations/[id]/route.ts
 ## [2026-10-04 16:11:15] feat(ui): implement ConversationSidebar and session history management
 - Staged: src/app/api/conversations/[id]/share/route.ts
+## [2026-10-04 18:03:56] feat(ui): add ModelSearch and ProviderSelector filtering controls
+- Staged: src/app/api/stream/chat/route.ts
