@@ -82,3 +82,5 @@
 - Staged: src/app/api/conversations/[id]/share/route.ts
 ## [2026-10-04 18:03:56] feat(ui): add ModelSearch and ProviderSelector filtering controls
 - Staged: src/app/api/stream/chat/route.ts
+## [2026-10-06 12:26:38] feat(ui): implement StagePanel and multi-worker streaming pane cards
+- Staged: src/app/api/stream/research/route.ts
