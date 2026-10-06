@@ -84,3 +84,5 @@
 - Staged: src/app/api/stream/chat/route.ts
 ## [2026-10-06 12:26:38] feat(ui): implement StagePanel and multi-worker streaming pane cards
 - Staged: src/app/api/stream/research/route.ts
+## [2026-10-06 14:01:02] feat(ui): add StageActions for manual pipeline step execution and retry
+- Staged: src/app/api/stream/reasoning/route.ts
