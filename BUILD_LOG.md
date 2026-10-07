@@ -90,3 +90,5 @@
 - Staged: src/app/api/stream/coding/route.ts
 ## [2026-10-07 14:30:57] feat(ui): implement ViberSidebarNav and ViberOverviewPanel dashboards
 - Staged: src/app/api/stream/final/route.ts
+## [2026-10-07 16:05:45] feat(ui): add ExportPanel for JSON and Markdown artifact downloads
+- Staged: src/lib/store/stage.ts
