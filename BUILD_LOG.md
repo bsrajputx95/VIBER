@@ -88,3 +88,5 @@
 - Staged: src/app/api/stream/reasoning/route.ts
 ## [2026-10-07 12:31:20] feat(ui): implement ViberPromptDock with floating controls and model toggles
 - Staged: src/app/api/stream/coding/route.ts
+## [2026-10-07 14:30:57] feat(ui): implement ViberSidebarNav and ViberOverviewPanel dashboards
+- Staged: src/app/api/stream/final/route.ts
