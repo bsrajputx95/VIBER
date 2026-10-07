@@ -86,3 +86,5 @@
 - Staged: src/app/api/stream/research/route.ts
 ## [2026-10-06 14:01:02] feat(ui): add StageActions for manual pipeline step execution and retry
 - Staged: src/app/api/stream/reasoning/route.ts
+## [2026-10-07 12:31:20] feat(ui): implement ViberPromptDock with floating controls and model toggles
+- Staged: src/app/api/stream/coding/route.ts
