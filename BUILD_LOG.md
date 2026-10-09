@@ -94,3 +94,5 @@
 - Staged: src/lib/store/stage.ts
 ## [2026-10-09 14:13:26] feat(ui): implement MarkdownRenderer with syntax highlighting and LaTeX math
 - Staged: src/app/globals.css
+## [2026-10-09 16:35:31] feat(ui): add ErrorBoundary and client-side error recovery
+- Staged: public/file.svg
