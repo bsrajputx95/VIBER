@@ -92,3 +92,5 @@
 - Staged: src/app/api/stream/final/route.ts
 ## [2026-10-07 16:05:45] feat(ui): add ExportPanel for JSON and Markdown artifact downloads
 - Staged: src/lib/store/stage.ts
+## [2026-10-09 14:13:26] feat(ui): implement MarkdownRenderer with syntax highlighting and LaTeX math
+- Staged: src/app/globals.css
