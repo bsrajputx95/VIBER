@@ -98,3 +98,5 @@
 - Staged: public/file.svg
 ## [2026-10-10 11:05:30] feat(ui): assemble root layout and font configurations
 - Staged: public/globe.svg
+## [2026-10-10 13:41:25] feat(ui): integrate ViberAssistantWorkspace with 3D canvas and dock
+- Staged: public/next.svg
