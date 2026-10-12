@@ -108,3 +108,5 @@
 - Staged: public/favicon.png
 ## [2026-10-12 18:59:10] style: polish workspace glassmorphism styling and visual feedback
 - Staged: src/app/favicon.ico
+## [2026-10-12 20:11:29] docs: add comprehensive README with architecture overview and setup guide
+- Staged: src/app/icon.png
