@@ -106,3 +106,5 @@
 - Staged: public/window.svg
 ## [2026-10-12 16:17:42] perf: memoize virtualized list items in execution journal
 - Staged: public/favicon.png
+## [2026-10-12 18:59:10] style: polish workspace glassmorphism styling and visual feedback
+- Staged: src/app/favicon.ico
