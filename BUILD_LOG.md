@@ -110,3 +110,5 @@
 - Staged: src/app/favicon.ico
 ## [2026-10-12 20:11:29] docs: add comprehensive README with architecture overview and setup guide
 - Staged: src/app/icon.png
+## [2026-10-14 10:38:59] docs: update deployment guidelines and production checklists
+- Staged: src/app/apple-icon.png
