@@ -114,3 +114,5 @@
 - Staged: src/app/apple-icon.png
 ## [2026-10-14 12:40:44] refactor(ui): polish glassmorphism border glows and hover states
 - Staged: src/components/ui/badge.tsx
+## [2026-10-14 14:31:27] perf(visuals): optimize Three.js render loop and particle geometry buffers
+- Staged: src/components/ui/button.tsx
