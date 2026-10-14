@@ -112,3 +112,5 @@
 - Staged: src/app/icon.png
 ## [2026-10-14 10:38:59] docs: update deployment guidelines and production checklists
 - Staged: src/app/apple-icon.png
+## [2026-10-14 12:40:44] refactor(ui): polish glassmorphism border glows and hover states
+- Staged: src/components/ui/badge.tsx
