@@ -116,3 +116,5 @@
 - Staged: src/components/ui/badge.tsx
 ## [2026-10-14 14:31:27] perf(visuals): optimize Three.js render loop and particle geometry buffers
 - Staged: src/components/ui/button.tsx
+## [2026-10-16 15:05:20] fix(stream): resolve edge case in SSE chunk parser for high-frequency token streams
+- Staged: src/components/ui/card.tsx
