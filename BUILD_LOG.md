@@ -120,3 +120,5 @@
 - Staged: src/components/ui/card.tsx
 ## [2026-10-16 17:13:51] refactor(providers): optimize connection reuse and request header caching
 - Staged: src/components/ui/dropdown-menu.tsx
+## [2026-10-17 16:54:27] perf(ui): memoize message items in conversation thread view
+- Staged: src/components/ui/input.tsx
