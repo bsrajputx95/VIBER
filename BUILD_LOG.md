@@ -122,3 +122,5 @@
 - Staged: src/components/ui/dropdown-menu.tsx
 ## [2026-10-17 16:54:27] perf(ui): memoize message items in conversation thread view
 - Staged: src/components/ui/input.tsx
+## [2026-10-17 18:26:53] fix(auth): handle expired session token edge case gracefully
+- Staged: src/components/ui/progress.tsx
