@@ -17,7 +17,7 @@
 
 ### Key Capabilities
 
-- **Interactive 3D WebGL Core**: Real-time Three.js neural core featuring orbital telemetry rings, responsive particle aura, and dynamic state reactivity.
+
 - **Direct Streaming Workspace**: Instant single-prompt execution with SSE (Server-Sent Events) streaming and on-the-fly API key injection.
 - **Multi-Worker Synthesis Matrix**: 4-stage pipeline (**01. Research → 02. Reasoning → 03. Coding → 04. Synthesis**) executing 3 parallel worker streams per stage consolidated by an executive master model.
 - **Multi-Provider Engine**: Unified routing across OpenRouter, Groq, OpenAI, Anthropic, Google Gemini, xAI, Mistral, Cohere, and Together AI.
